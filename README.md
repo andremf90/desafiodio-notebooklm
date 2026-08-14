@@ -1,4 +1,4 @@
-Objetivo:
+#Objetivo:
 Criar um segundo cérebro baseado nos ensinamentos de investigação do Detetive Sherlock Holmes, e sua metodologia para solucionar casos.
 Desafio de projeto prático focado na criação de um LMManager utilizando a Inteligência Artificial como ferramenta de aprendizagem ativa.
 
